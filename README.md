@@ -24,8 +24,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
-<!--
-
 - 🛢 &nbsp; Firebase | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium 
@@ -34,7 +32,6 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
 
 
 
