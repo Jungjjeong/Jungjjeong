@@ -30,7 +30,7 @@
 
 - ♟ &nbsp; Flask | NodeJS
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator | Photoshop | InDesign
 
 
 
