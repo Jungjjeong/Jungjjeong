@@ -1,4 +1,4 @@
-<h2> I'm Jiyoung</h2>
+<h2> I'm Jiyoung</h2><br/>
 
 <h3> 👧🏻•💻 About Me </h3>
 
