@@ -44,17 +44,14 @@
 
 
 
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
 <br/>
 
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/Jungjjeong)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjjeong&show_icons=true)
+
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
-<br><br>
 
 
 
