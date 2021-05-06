@@ -1,4 +1,4 @@
-<h2> I'm Jiyoung</h2><br/>
+<h2> I'm Jiyoung</h2>
 
 <h3> 👧🏻•💻 About Me </h3>
 
@@ -59,8 +59,6 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
 
 
 
