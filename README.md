@@ -46,7 +46,7 @@
 
 <br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/Jungjjeong)
+[![Jiyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jungjjeong&show_icons=true)](https://github.com/Jungjjeong)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjjeong&show_icons=true)
