@@ -66,8 +66,6 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
 <a href="https://www.instagram.com/j1y_____gg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-j1y_____gg-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:sky990106@dgu.ac.kr"><img alt="Email" src="https://img.shields.io/badge/Email-sky990106@dgu.ac.kr-blue?style=flat-square&logo=gmail"></a>
