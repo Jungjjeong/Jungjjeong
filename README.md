@@ -2,14 +2,14 @@
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👧🏻•💻 About Me </h3>
 
+
+- 🤔 &nbsp; I usually do Front-end and Back-end / Web development.
 
 - 🎓 &nbsp; Dongguk UNIV - Department of Information&Communication Engineering.
 
 - 🐱‍👤 &nbsp; I'm Software architecture Researcher
-
-- 🤔 &nbsp; I usually do Front-end and Back-end / Web development.
 
 - ✍️ &nbsp; Learning about Cloud Tech, Systems Design.
 
