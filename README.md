@@ -3,13 +3,11 @@
 <h3> 👧🏻•💻 About Me </h3>
 
 
-- 🤔 &nbsp; I usually do Front-end and Back-end / Web development.
+- 🤔 &nbsp; I usually do Front-end and Back-end | Web/App development.
 
 - 🎓 &nbsp; Dongguk UNIV - Department of Information&Communication Engineering.
 
 - 🐱‍👤 &nbsp; I'm Software architecture Researcher
-
-- ✍️ &nbsp; Learning about Cloud Tech, Systems Design.
 
 
 
@@ -20,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C 
+- 💻 &nbsp; Python | Java | C 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
@@ -34,10 +32,9 @@
 
 
 
-
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Typescript
+- 🔧 &nbsp; Kotlin | Swift | Typescript
 
 <hr>
 
