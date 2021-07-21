@@ -18,34 +18,9 @@
 
 
 
-- 💻 &nbsp; Python | Java | C 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
-
-- 🛢 &nbsp; Firebase | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium 
-
-- ♟ &nbsp; Flask | NodeJS
-
-- 🖥 &nbsp; Illustrator | Photoshop | InDesign
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Kotlin | Swift | Typescript
-
-<hr>
-
-
-
 <br/>
 
 [![Jiyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jungjjeong&show_icons=true)](https://github.com/Jungjjeong)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjjeong&show_icons=true)
 
 <br/>
 
