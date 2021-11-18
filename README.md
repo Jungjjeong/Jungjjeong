@@ -9,6 +9,8 @@
 
 - 🐱‍👤 &nbsp; I'm Software architecture Researcher
 
+- 💻 &nbsp; notion : https://jungyam.notion.site/Ji-Young-Web-Application-Developer-0bcfcb2b6aa44648a88015fb5b9b33fe
+
 
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="250">
