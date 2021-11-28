@@ -1,4 +1,4 @@
-<h2> I'm Jiyoung</h2>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JiYoung👋&fontSize=90)<br><br><br>
 
 <h3> 👧🏻•💻 About Me </h3>
 
