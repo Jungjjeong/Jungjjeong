@@ -3,7 +3,7 @@
 <h3> 👧🏻•💻 About Me </h3>
 
 
-- 🤔 &nbsp; I usually do Front-end and Back-end | Web/App development.
+- 🤔 &nbsp; I usually do Front-end | Web/App development.
 
 - 🎓 &nbsp; Dongguk UNIV - Department of Information&Communication Engineering.
 
