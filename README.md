@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JiYoung👋&fontSize=90)<br><br><br>
 
-<h3> 👧🏻•💻 About Me </h3>
+<h3> 👩‍💻 About Me </h3>
 
 
 - 🤔 &nbsp; I usually do Front-end | Web/App development.
