@@ -9,7 +9,7 @@
 
 - 🐱‍👤 &nbsp; I'm Software architecture Researcher
 
-- 💻 &nbsp; notion : https://haeyum.notion.site/Haeyum-Study-Blog-d3f4b51c878641a983bcd2bb26f2d4dd
+- 💻 &nbsp; Blog : https://jungjjeong.github.io/
 
 
 
