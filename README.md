@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm%20Jiyoung!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&width=100%)
 <div align='center'>
+  <img width="100%" src="https://user-images.githubusercontent.com/72294509/169758638-1a8ee8f6-7c86-464c-ac12-2cfbb55e997f.gif" />
+
+  <br><br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungjjeong&count_bg=%23FFC800&title_bg=%23928060&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungjjeong&count_bg=%23EE6161&title_bg=%23928060&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   <h2> ✨ 프론트엔드 개발자로 나아가는 중...</h2>
   깊이 있는 고민을 바탕으로 적극적인 자세를 가집니다.<br>
 
