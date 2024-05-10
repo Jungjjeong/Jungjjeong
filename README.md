@@ -1,9 +1,5 @@
-# Hi, I'm Haeyum. 🖐🏻
+## Hi, I'm Jiyoung. 🖐🏻
   
-깊이 있는 고민을 바탕으로 적극적인 자세를 가집니다.<br>
-배우고 기록하고 제 것으로 녹여내는 과정을 좋아합니다.
-
-<br>
 
 - PORTFOLIO — [portfolio.haeyum.me](https://portfolio.haeyum.me/)
 - BLOG — [blog.haeyum.me](https://blog.haeyum.me/)
