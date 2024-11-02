@@ -1,7 +1,7 @@
 ## Jung jiyoung
 
-- LinkedIn — [jiyoung Jung LinkedIn](https://www.linkedin.com/in/jiyoung-jung-829b7124a/)
-- EMAIL — [sky990106@naver.com](mailto:sky990106@naver.com)
+- [Linked-in](https://www.linkedin.com/in/jiyoung-jung-829b7124a/)
+- [e-mail](mailto:sky990106@naver.com)
 
 ## Work
 - **MUSINSA** — Frontend Developer `(2022.11 ~ Currently employed)`
