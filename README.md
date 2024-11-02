@@ -1,4 +1,4 @@
-## Hi, I'm Jiyoung. 🖐🏻
+## Jung jiyoung
 
 - LinkedIn — [jiyoung Jung LinkedIn](https://www.linkedin.com/in/jiyoung-jung-829b7124a/)
 - EMAIL — [sky990106@naver.com](mailto:sky990106@naver.com)
