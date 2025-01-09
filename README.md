@@ -10,7 +10,7 @@
 
 ## Jung jiyoung
 
-- [Linked-in](https://www.linkedin.com/in/jiyoung-jung-829b7124a/)
+- [Linked-in](https://linkedin.com/in/jyjung0106)
 - [e-mail](mailto:sky990106@naver.com)
 
 ## Work
