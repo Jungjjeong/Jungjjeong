@@ -14,5 +14,6 @@
 - [e-mail](mailto:sky990106@naver.com)
 
 ## Work
-- **MUSINSA** — Frontend Developer `(2022.11 ~ Currently employed)`
+- **toss** — Frontend Developer `(2025.02 ~ Currently employed)`
+- **MUSINSA** — Frontend Developer `(2022.11 ~ 2025.01)`
 - **HANSSEM** — Frontend / iOS / Android Developer Intern `(2021.07 ~ 2021.08)`
